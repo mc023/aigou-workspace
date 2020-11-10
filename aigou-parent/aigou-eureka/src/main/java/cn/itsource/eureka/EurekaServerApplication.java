@@ -8,6 +8,15 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @EnableEurekaServer
 public class EurekaServerApplication {
 
+    
+    /**
+     * 功能描述: <br>
+     * 〈〉
+     * @Param: 测试123456
+     * @Return: 
+     * @Author: mc
+     * @Date: 2020/11/10 21:37
+     */
     public static void main(String[] args) {
         SpringApplication.run(EurekaServerApplication.class,args);
     }
